@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(245, 216, 179);
+    text-align: center;
+    color: rgb(196, 130, 55);
+    padding: 30px;
+
+
+}
+.resposta{
+    margin: 20px;
+    font-size: 30px;
+    color: rgb(177, 107, 60);
+}
